@@ -1,1 +1,1 @@
-web: gunicorn MGNREGA_Telangana_1.app:app
+web: gunicorn app:app
